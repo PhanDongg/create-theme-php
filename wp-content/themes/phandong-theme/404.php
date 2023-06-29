@@ -1,7 +1,21 @@
+
 <?php
+get_header();
+?>
 
-/* 
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHP.php to edit this template
- */
+    <article class="content px-3 py-5 p-md-5">
+        
 
+        
+        <h1>Page Not Found</h1>
+        
+        <?php
+        get_search_form();
+        
+        ?>
+    </article>
+
+
+<?php
+get_footer();
+?>

@@ -2,6 +2,10 @@
 
     <p class="copyright"><a href="https://youtube.com/FollowAndrew">FollowAndrew</a></p>
 
+    <?php
+    dynamic_sidebar('footer-1');
+    ?>
+
 </footer>
 
 </div>

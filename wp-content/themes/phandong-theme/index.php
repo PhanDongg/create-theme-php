@@ -20,6 +20,12 @@ get_header();
             }
         ?>
         
+        <?php
+//            phần bài đăng nổi bật nhất
+        the_posts_pagination();
+        
+        ?>
+        
     </article>
 
 
